@@ -322,6 +322,18 @@ You can see the improvement:
 
 Normally we would also take a look at relative font sizes (`h1` vs `h2` vs `p`) and ensure paragraphs aren't too wide for readability.
 
+# What about color?
+
+Normally, you should develop a color scheme for your web site. You can generate one at a variety of sites, such as [coolors](https://coolors.co), [Adobe Color](https://color.adobe.com/create/color-wheel), [Colormind](http://colormind.io), [ColorSpace](https://mycolor.space), and many others. There are even sites that [generate a color scheme from a photo](https://www.canva.com/colors/color-palette-generator/).
+
+Normally, one of the mistakes beginners make is using *too* much color, or using colors that don't blend well. A generator can help you find colors that blend well. To avoid using color too much, I recommend designing in black/white/gray first. Then if you have a brand or a color scheme, apply it sparingly to this black-and-white design, with the goal of making important things pop out to the eye. Maybe that's your logo, maybe you want to draw attention to a sale or coupon or special offer. [Be aware of how eye tracking works](https://vwo.com/blog/eye-tracking-website-optimization/). 
+
+As I designed this site, I felt like the photos gave me plenty of color. If I was to add more, it might be for the logo or the coupon background. The name/brand of the restaurant is probably what needs the most attention here, but I'm not a professional logo designer, so I left that out for now. If you develop websites professionally, you should care about branding, and you would likely want to hire a professional to help you with this. If you don't have money to do it professionally, there are many websites that offer [templates](https://www.templatemonster.com) that you can either use directly or use as the basis for your own design.
+
+## Double check your work
+
+Once you have changed styles for the desktop version, make sure the mobile version still works as intended! Be sure your media queries are working.
+
 ## Explaining the CSS for the responsive menu
 
 Let's come back to the CSS for the menu. Feel free to skip this unless you really want to see some of the gory details.
