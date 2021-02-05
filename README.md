@@ -45,7 +45,7 @@ body {
 
 You should conceptually plan out your pages before writing any code. In a larger company, this might be done for you by a web designer. But often on smaller projects or personal hobby sites you may be the only one on the project -- you are the web designer! So let's do a basic design.
 
-I'm going to dream a bit and imagine I'm runnnig a restaurant.:
+I'm going to dream a bit and imagine I'm runnnig a restaurant. Here is a simple mobile-first design:
 
 ![design](./images/design.jpg)
 
