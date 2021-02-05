@@ -1,6 +1,6 @@
 # Tutorial on Responsive Design
 
-In this tutorial, I am going to show you how to develop a page using a **mobile-first, responsive design*. By *mobile-first*, I mean that we will design for people viewing our page on mobile phones first. Then, we will adjust the styles so that the page takes advantage of tablets or computers with larger screens. By *responsive* design, I mean that a single page of HTMl and CSS will change its styles depending on the size of the screen you are using to view the page.
+In this tutorial, I am going to show you how to develop a page using a *mobile-first, responsive design*. By *mobile-first*, I mean that we will design for people viewing our page on mobile phones first. Then, we will adjust the styles so that the page takes advantage of tablets or computers with larger screens. By *responsive* design, I mean that a single page of HTMl and CSS will change its styles depending on the size of the screen you are using to view the page.
 
 ## HTML Boilerplate
 
