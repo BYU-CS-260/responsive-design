@@ -322,7 +322,7 @@ You can see the improvement:
 
 Normally we would also take a look at relative font sizes (`h1` vs `h2` vs `p`) and ensure paragraphs aren't too wide for readability.
 
-# What about color?
+## What about color?
 
 Normally, you should develop a color scheme for your web site. You can generate one at a variety of sites, such as [coolors](https://coolors.co), [Adobe Color](https://color.adobe.com/create/color-wheel), [Colormind](http://colormind.io), [ColorSpace](https://mycolor.space), and many others. There are even sites that [generate a color scheme from a photo](https://www.canva.com/colors/color-palette-generator/).
 
