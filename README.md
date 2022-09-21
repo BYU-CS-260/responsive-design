@@ -100,7 +100,7 @@ Let's pick a photo a place it in a `div`:
 
 ```html
 <div class="photo">
-    <img src="/images/cover.jpg">
+    <img src="images/cover.jpg">
 </div>
 ```
 
@@ -162,13 +162,13 @@ Let's add some photos of nice dishes we serve at our restaurant:
 ```html
 <div class="dishes">
     <div class="dish">
-        <img src="/images/pizza.jpg">
+        <img src="images/pizza.jpg">
     </div>
     <div class="dish">
-        <img src="/images/pasta.jpg">
+        <img src="images/pasta.jpg">
     </div>
     <div class="dish">
-        <img src="/images/steak.jpg">
+        <img src="images/steak.jpg">
     </div>
 </div>
 ```
@@ -187,7 +187,7 @@ Finally, let's add some information about how to contact us in a footer at the b
 <div class="contact">
     <h2>Contact Us</h2>
     <p>You can find us at 900 Astor Street, in downtown Astoria.</p>
-    <img src="/images/map.png">
+    <img src="images/map.png">
 </div>
 ```
 
