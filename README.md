@@ -70,13 +70,7 @@ For the logo and the menu, I'm going to use a [pure CSS, responsive menu](https:
 </body>
 ```
 
-Start a local Python web server:
-
-```sh
-python3 -m http.server
-```
-
-and then open Chrome at `localhost:8000`. Right click and choose `Inspect` to open Chrome's developer tools and click the responsive design icon, shown below in blue:
+Create an html file on your web server with this content and choose `Inspect` to open Chrome's developer tools and click the responsive design icon, shown below in blue:
 
 ![developer tools](./images/developer.png)
 
